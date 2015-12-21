@@ -19,6 +19,7 @@ Got a useful resource to share? Just send over a pull request or create an [issu
 
 # Articles & Tutorials
 1. [Extra Documentations](http://www.elegantthemes.com/gallery/extra/documentation/)
+2. [Extra Child Theme](https://github.com/elegantthemes/extra-child-theme-init) -  Child Theme Template that supports CSS, Less, Sass.
 
 # Books
 1. [Coming soon]()
@@ -28,7 +29,7 @@ A list of sites built with Extra!
 - [Coming soon]()
 
 # Community
-- [**Extra Theme Users**](https://www.facebook.com/groups/835970469778246/) - Facebook Group by **Cory Jenkins**, **Andrew Palmer**, 
+- [**Extra Theme Users**](https://www.facebook.com/groups/835970469778246/) - Facebook Group by **Cory Jenkins**, **Andrew Palmer**,
 **Eileen Corrigan Lonergan**, **David Blackmon**
 - [Elegant Themes Users Community](https://www.facebook.com/groups/ElegantThemesUserCommunity/) - Facebook Group by **Geno Quiroz**
 - [Extra Theme Help & Share](https://www.facebook.com/groups/974663089258835/) - Facebook Group by **James Brian Fosker**

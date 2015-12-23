@@ -6,12 +6,14 @@ A list of helpful content to getting started with Extra Theme.
 - [Articles & Tutorials](#articles--tutorials)
 - [Books](#books)
 - [Built with Extra](#built-with-extra)
+- [Child Themes](#child-themes)
 - [Community](#community)
 - [Courses](#courses)
 - [News](#news)
 - [Podcasts](#podcasts)
-- [Plugins](plugins)
-- [Screencasts](screencasts)
+- [Plugins](#plugins)
+- [Screencasts](#screencasts)
+- [Tools](#tools)
 - [More Useful Links](#more-useful-links)
 
 # Collaboration
@@ -28,6 +30,10 @@ Got a useful resource to share? Just send over a pull request or create an [issu
 A list of sites built with Extra!
 - [Coming soon]()
 
+# Child Themes
+A list of free child themes created by the community.
+- [Vivid Child Theme](https://github.com/andyhqtran/vivid-child-theme) - Created by [Andy Tran](http://andytran.me)
+
 # Community
 - [**Extra Theme Users**](https://www.facebook.com/groups/835970469778246/) - Facebook Group by **Cory Jenkins**, **Andrew Palmer**,
 **Eileen Corrigan Lonergan**, **David Blackmon**
@@ -38,15 +44,20 @@ A list of sites built with Extra!
 1. [Coming soon]()
 
 # News
-1. [Extra Release](http://www.elegantthemes.com/blog/theme-releases/extra)
-2. [Extra Sneakpeak - Pt. 1](http://www.elegantthemes.com/blog/theme-sneak-peeks/breaking-news-we-are-working-on-a-new-theme-and-its-called-extra)
-3. [Extra Sneak Peak - Pt. 2](http://www.elegantthemes.com/blog/theme-sneak-peeks/a-closer-look-at-extra)
+1. [Extra Release](http://www.elegantthemes.com/blog/theme-releases/extra) - by ElegantThemes
+2. [Extra Sneakpeak - Pt. 1](http://www.elegantthemes.com/blog/theme-sneak-peeks/breaking-news-we-are-working-on-a-new-theme-and-its-called-extra) - by ElegantThemes
+3. [Extra Sneak Peak - Pt. 2](http://www.elegantthemes.com/blog/theme-sneak-peeks/a-closer-look-at-extra) - by ElegantThemes
+4. [Introducing Extra - Elegant Themes' Highly Anticipated New Magazine WordPress Theme](http://speckyboy.com/2015/12/16/extra-magazine-wordpress-theme/) - by Speckyboy Editors
 
 # Podcasts
 1. [Coming soon]()
 
 # Plugins
-1. [Coming soon]()
+Plugins that are compatible or created for Extra.
+- [The Divi Build](http://www.elegantthemes.com/plugins/divi-builder/) - Extra is built with the Divi Builder.
+- [Bloom](http://cdn.elegantthemes.com/images/bloom_plugin_main_image.png) - Email Opt-Ins
+- [Monarch](http://www.elegantthemes.com/plugins/monarch/) - Social Media Sharing
+- [WooCommerce](https://www.woothemes.com/woocommerce/)
 
 # Screencast
 1. [Getting Started with Extra](https://www.youtube.com/watch?v=JDSg9eq4LIc)
@@ -71,5 +82,14 @@ A list of sites built with Extra!
 20. [Extra Widgets](https://www.youtube.com/watch?v=rZmROeWtMqE)
 21. [Extra & WooCommerce](https://www.youtube.com/watch?v=v5TRyH8eqIg)
 
+# Tools
+A list of useful tools for working with Extra.
+- [Sublime Text 3](http://www.sublimetext.com/3) - Recommended Text Editor
+- [Atom](https://atom.io/) - Text Editor for the 21st Century
+- [GitHub](http://github.com) - Great collaboration tool and revision tracker
+- [Sketch 3](https://www.sketchapp.com/) - Perfect design tool for creating quick designs.
+- [Adobe Creative Cloud Suite](http://www.adobe.com/creativecloud.html) - Tons of Apps, perfect for development, design, etc.
+- [Slack](https://slack.com/) - A messaging app for teams.
+
 # More Useful Links
-1. [Coming soon]()
+1. [ElegantThemes - YouTube Channel](https://www.youtube.com/channel/UCuasRuWliU48RwnKXf9GesA)

@@ -32,6 +32,7 @@ A list of sites built with Extra!
 - [Creative Astro](http://creativeastro.tv/)
 - [Crista Apostolica](http://cristaapostolica.com.br/)
 - [Vacanze Marrakech](http://vacanzemarrakech.altervista.org/)
+- [Desconecte Magazine](http://www.desconectemagazine.com.br/)
 
 # Child Themes
 A list of free child themes created by the community.

@@ -28,7 +28,10 @@ Got a useful resource to share? Just send over a pull request or create an [issu
 
 # Built with Extra
 A list of sites built with Extra!
-- [Coming soon]()
+- [Extra](http://elegantthemes.com/preview/Extra/)
+- [Creative Astro](http://creativeastro.tv/)
+- [Crista Apostolica](http://cristaapostolica.com.br/)
+- [Vacanze Marrakech](http://vacanzemarrakech.altervista.org/)
 
 # Child Themes
 A list of free child themes created by the community.

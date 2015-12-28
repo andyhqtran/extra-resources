@@ -33,6 +33,10 @@ A list of sites built with Extra!
 - [Crista Apostolica](http://cristaapostolica.com.br/)
 - [Vacanze Marrakech](http://vacanzemarrakech.altervista.org/)
 - [Desconecte Magazine](http://www.desconectemagazine.com.br/)
+- [Spiegelloos](http://www.spiegelloos.nl/)
+- [Parajunkee](http://www.parajunkee.com/)
+- [Luscious Lime](http://www.lusciouslime.com/)
+- [Archaeology Travel](http://archaeology-travel.com/)
 
 # Child Themes
 A list of free child themes created by the community.

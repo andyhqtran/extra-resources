@@ -22,6 +22,7 @@ Got a useful resource to share? Just send over a pull request or create an [issu
 # Articles & Tutorials
 1. [Extra Documentations](http://www.elegantthemes.com/gallery/extra/documentation/)
 2. [Extra Child Theme](https://github.com/elegantthemes/extra-child-theme-init) -  Child Theme Template that supports CSS, Less, Sass.
+3. [Creating an Extra Child Theme](https://helloandytran.wordpress.com/2016/01/02/creating-an-extra-child-theme/) - A tutorial on creating an Extra Child Theme.
 
 # Books
 1. [Coming soon]()
@@ -96,8 +97,11 @@ A list of useful tools for working with Extra.
 - [Atom](https://atom.io/) - Text Editor for the 21st Century
 - [GitHub](http://github.com) - Great collaboration tool and revision tracker
 - [Sketch 3](https://www.sketchapp.com/) - Perfect design tool for creating quick designs.
+- [ColorSnapper](http://colorsnapper.com/) - Useful tool to instantly pick colors.
+- [ColorHexa](http://www.colorhexa.com/) - Online color encyclopedia.
 - [Adobe Creative Cloud Suite](http://www.adobe.com/creativecloud.html) - Tons of Apps, perfect for development, design, etc.
 - [Slack](https://slack.com/) - A messaging app for teams.
+- [Mamp](https://www.mamp.info/en/) - Quick and simple local development platform.
 
 # More Useful Links
 1. [ElegantThemes - YouTube Channel](https://www.youtube.com/channel/UCuasRuWliU48RwnKXf9GesA)

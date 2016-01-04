@@ -38,6 +38,7 @@ A list of sites built with Extra!
 - [Parajunkee](http://www.parajunkee.com/)
 - [Luscious Lime](http://www.lusciouslime.com/)
 - [Archaeology Travel](http://archaeology-travel.com/)
+- [ViralBuzz](http://viralbuzz.click/)
 
 # Child Themes
 A list of free child themes created by the community.

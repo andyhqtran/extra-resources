@@ -56,6 +56,7 @@ A list of free child themes created by the community.
 
 # Hosting
 Reliable hosting services for hosting a WordPress site.
+
 1. [DigitalOcean](https://www.digitalocean.com/?refcode=440d50292a32) - Recommend hosting service that features a one-click WordPress on Ubuntu installation. ($10 in free credits when clicking provided link)
 2. [DreamHost](https://www.dreamhost.com/)
 3. [Arvixe](http://www.arvixe.com/)

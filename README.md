@@ -94,15 +94,17 @@ Plugins that are compatible or created for Extra.
 
 # Tools
 A list of useful tools for working with Extra.
-- [Sublime Text 3](http://www.sublimetext.com/3) - Recommended Text Editor
-- [Atom](https://atom.io/) - Text Editor for the 21st Century
-- [GitHub](http://github.com) - Great collaboration tool and revision tracker
+- [Sublime Text 3](http://www.sublimetext.com/3) - Recommended Text Editor.
+- [Atom](https://atom.io/) - Text Editor for the 21st Century.
+- [GitHub](http://github.com) - Great collaboration tool and revision tracker.
+- [CodePen](https://codepen.io) - Great prototyping and collobration tool.
 - [Sketch 3](https://www.sketchapp.com/) - Perfect design tool for creating quick designs.
 - [ColorSnapper](http://colorsnapper.com/) - Useful tool to instantly pick colors.
 - [ColorHexa](http://www.colorhexa.com/) - Online color encyclopedia.
 - [Adobe Creative Cloud Suite](http://www.adobe.com/creativecloud.html) - Tons of Apps, perfect for development, design, etc.
 - [Slack](https://slack.com/) - A messaging app for teams.
 - [Mamp](https://www.mamp.info/en/) - Quick and simple local development platform.
+- [BrowserStack](https://www.browserstack.com) - Cross-browser testing tool.
 
 # More Useful Links
 1. [ElegantThemes - YouTube Channel](https://www.youtube.com/channel/UCuasRuWliU48RwnKXf9GesA)

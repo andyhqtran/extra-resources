@@ -31,6 +31,7 @@ Got a useful resource to share? Just send over a pull request or create an [issu
 # Built with Extra
 A list of sites built with Extra!
 - [Extra](http://elegantthemes.com/preview/Extra/)
+- [Aspen Grove](https://aspengrovestudios.com/)
 - [Creative Astro](http://creativeastro.tv/)
 - [Crista Apostolica](http://cristaapostolica.com.br/)
 - [Vacanze Marrakech](http://vacanzemarrakech.altervista.org/)
